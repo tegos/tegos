@@ -2,6 +2,8 @@
 
 PHP/Laravel backend engineer. Into perf tuning, clean architecture, and the dusty corners of PHP internals. Contributed to [Laravel 13.x core](https://github.com/laravel/framework/pull/57196). Write about what bites in production.
 
+High-load APIs · Open source · AI-assisted development
+
 [![Why PHP](https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=flat-square&labelColor=18181b)](https://whyphp.dev)
 [![Dev.to](https://img.shields.io/badge/dev.to-%40tegos-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/tegos)
 [![Codeboards](https://img.shields.io/badge/codeboards-tegos-6366f1?style=flat-square&labelColor=18181b)](https://codeboards.io/tegos)
