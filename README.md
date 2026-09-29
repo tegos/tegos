@@ -40,6 +40,6 @@ Senior Backend Engineer, Lviv, Ukraine. Four and a half years on the backend of 
 ## Stats
 
 <p align="left">
-  <img height="165" src="https://tegos-github-readme-stats.vercel.app/api?username=tegos&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" />&nbsp;&nbsp;
-  <img height="165" src="https://tegos-github-readme-stats.vercel.app/api/top-langs/?username=tegos&layout=compact&hide_border=true&theme=github_dark&hide=html,css,blade,C%23,Jupyter%20Notebook&langs_count=6&exclude_repo=burger-reborn,expert-lead-finder" />
+  <img height="165" src="https://tegos-github-readme-stats.vercel.app/api?username=tegos&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true&card_width=473" />
+  <img height="165" src="https://tegos-github-readme-stats.vercel.app/api/top-langs/?username=tegos&layout=compact&hide_border=true&theme=github_dark&hide=html,css,blade,C%23,Jupyter%20Notebook&langs_count=6&exclude_repo=burger-reborn,expert-lead-finder&card_width=400" />
 </p>
