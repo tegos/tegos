@@ -22,10 +22,10 @@ Senior Backend Engineer, Lviv, Ukraine. Four and a half years on the backend of 
 
 ## Projects
 
-<a href="https://github.com/tegos/laravel-telescope-flusher"><img src="https://tegos-github-readme-stats.vercel.app/api/pin/?username=tegos&repo=laravel-telescope-flusher&hide_border=true&theme=github_dark" /></a>
-<a href="https://github.com/tegos/laravel-hierarchical-data"><img src="https://tegos-github-readme-stats.vercel.app/api/pin/?username=tegos&repo=laravel-hierarchical-data&hide_border=true&theme=github_dark" /></a>
-<a href="https://github.com/tegos/laravel-action-and-service-guideline"><img src="https://tegos-github-readme-stats.vercel.app/api/pin/?username=tegos&repo=laravel-action-and-service-guideline&hide_border=true&theme=github_dark" /></a>
-<a href="https://github.com/tegos/cad-3d-viewer"><img src="https://tegos-github-readme-stats.vercel.app/api/pin/?username=tegos&repo=cad-3d-viewer&hide_border=true&theme=github_dark" /></a>
+<a href="https://github.com/tegos/laravel-telescope-flusher"><img src="https://tegos-github-readme-stats.vercel.app/api/pin/?username=tegos&repo=laravel-telescope-flusher&hide_border=true&theme=github_dark&description_lines_count=3" /></a>
+<a href="https://github.com/tegos/laravel-hierarchical-data"><img src="https://tegos-github-readme-stats.vercel.app/api/pin/?username=tegos&repo=laravel-hierarchical-data&hide_border=true&theme=github_dark&description_lines_count=3" /></a>
+<a href="https://github.com/tegos/laravel-action-and-service-guideline"><img src="https://tegos-github-readme-stats.vercel.app/api/pin/?username=tegos&repo=laravel-action-and-service-guideline&hide_border=true&theme=github_dark&description_lines_count=3" /></a>
+<a href="https://github.com/tegos/cad-3d-viewer"><img src="https://tegos-github-readme-stats.vercel.app/api/pin/?username=tegos&repo=cad-3d-viewer&hide_border=true&theme=github_dark&description_lines_count=3" /></a>
 
 ## Writing
 
