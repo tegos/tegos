@@ -1,7 +1,5 @@
 # Ivan Mykhavko
 
-PHP/Laravel backend engineer. Into perf tuning, clean architecture, and the dusty corners of PHP internals.
-
 Senior Backend Engineer, Lviv, Ukraine. Four and a half years on the backend of a B2B auto-parts marketplace: a 257k-SKU catalog at 750+ orders on a weekday.
 
 **LLM output, measured** - my AI filter-translation pipeline returned 9.5% of rows in the wrong language on its first pass; validating structured output in code rather than in the prompt brought all 1,067 active values to zero wrong-language rows. A three-round review of a colleague's separate product-translation pipeline found an unbounded response schema dropping 22 of every 2,000 translations.
@@ -43,5 +41,5 @@ Senior Backend Engineer, Lviv, Ukraine. Four and a half years on the backend of 
 
 <p align="left">
   <img height="170" src="https://tegos-github-readme-stats.vercel.app/api?username=tegos&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" />&nbsp;&nbsp;
-  <img height="170" src="https://tegos-github-readme-stats.vercel.app/api/top-langs/?username=tegos&layout=compact&hide_border=true&theme=github_dark&hide=html,css,blade,C%23,Jupyter%20Notebook&langs_count=6&exclude_repo=burger-reborn" />
+  <img height="170" src="https://tegos-github-readme-stats.vercel.app/api/top-langs/?username=tegos&layout=compact&hide_border=true&theme=github_dark&hide=html,css,blade,C%23,Jupyter%20Notebook&langs_count=6&exclude_repo=burger-reborn,expert-lead-finder" />
 </p>
