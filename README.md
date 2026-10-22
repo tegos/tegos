@@ -2,7 +2,7 @@
 
 Senior Backend Engineer, Lviv, Ukraine. Four and a half years on the backend of a B2B auto-parts marketplace: a 257k-SKU catalog at 750+ orders on a weekday.
 
-**LLM output, measured** - my AI filter-translation pipeline returned 9.5% of rows in the wrong language on its first pass; validating structured output in code rather than in the prompt brought all 1,067 active values to zero wrong-language rows. A three-round review of a colleague's separate product-translation pipeline found an unbounded response schema dropping 22 of every 2,000 translations.
+**LLM output, measured** - my AI filter-translation pipeline returned 9.5% of rows in the wrong language on its first pass. Validating structured output in code, not in the prompt, fixed all 1,067 active values. A three-round review of a colleague's separate product-translation pipeline found an unbounded response schema that lost 22 of every 2,000 translations.
 
 **Laravel core** - one fix merged into 13.x, [#57196](https://github.com/laravel/framework/pull/57196): MySQL grammar was dropping `ORDER BY` and `LIMIT` from a `DELETE` with a join.
 
@@ -10,7 +10,7 @@ Senior Backend Engineer, Lviv, Ukraine. Four and a half years on the backend of 
 - [`tegos/laravel-telescope-flusher`](https://packagist.org/packages/tegos/laravel-telescope-flusher) - `telescope:flush`, because `telescope:clear` takes 9,025 s where this takes 1.21 s.
 - [`@tegos/spindle`](https://www.npmjs.com/package/@tegos/spindle) - zero-dependency TypeScript 360 viewer.
 
-**Writing** - [dev.to/@tegos](https://dev.to/tegos), 37 articles, mostly about whatever broke that month.
+**Writing** - [dev.to/@tegos](https://dev.to/tegos), 39 articles, mostly about whatever broke that month.
 
 [![Why PHP](https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=flat-square&labelColor=18181b)](https://whyphp.dev)
 [![Dev.to](https://img.shields.io/badge/dev.to-%40tegos-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/tegos)
@@ -41,5 +41,5 @@ Senior Backend Engineer, Lviv, Ukraine. Four and a half years on the backend of 
 
 <p align="left">
   <img height="165" src="https://tegos-github-readme-stats.vercel.app/api?username=tegos&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true&card_width=473" />
-  <img height="165" src="https://tegos-github-readme-stats.vercel.app/api/top-langs/?username=tegos&layout=compact&hide_border=true&theme=github_dark&hide=html,css,blade,C%23,Jupyter%20Notebook&langs_count=6&exclude_repo=burger-reborn,expert-lead-finder&card_width=400" />
+  <img height="165" src="https://tegos-github-readme-stats.vercel.app/api/top-langs/?username=tegos&layout=compact&hide_border=true&theme=github_dark&hide=html,css,blade,C%23,Jupyter%20Notebook&langs_count=6&exclude_repo=burger-reborn,expert-lead-finder,exauto-skills,claude-skills,wsl-maint,wsl-maint-private&card_width=400" />
 </p>
